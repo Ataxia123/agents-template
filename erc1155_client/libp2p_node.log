@@ -1,0 +1,28 @@
+test[90m13:52:00.115[0m [33mDBG[0m env_file: /home/ataxia/Documents/Coding/agents-template/erc1155_client/.env.libp2p [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m msgin_path: /tmp/tmp3t_6vcjd/aea_to_process [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m msgout_path: /tmp/tmp3t_6vcjd/process_to_aea [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m id: af1f7aa7cf324291f8ab451168636c94fd7a9da7ad076506ad7c3c1d28133e99 [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m addr: 0x9e5c8Bf3b776398455F604B38fFaF32FD39e590e [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m entry_peers:  [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m uri: 127.0.0.1:9000 [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m uri public: 127.0.0.1:9000 [36mpackage=[0mAeaApi
+[90m13:52:00.115[0m [33mDBG[0m uri delegate service: 127.0.0.1:11000 [36mpackage=[0mAeaApi
+[90m2021-03-21T13:52:00.115965802-05:00[0m [32mINF[0m successfully initialized API to AEA!
+[90m2021-03-21T13:52:00.154524635-05:00[0m [32mINF[0m INFO My ID is  [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:52:00.154566516-05:00[0m [32mINF[0m successfully created libp2p node! [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:52:00.154598149-05:00[0m [33mDBG[0m Setting /aea-register/0.1.0 stream... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:52:00.154663848-05:00[0m [32mINF[0m successfully loaded 0 agents [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:52:00.154681077-05:00[0m [33mDBG[0m Setting /aea-address/0.1.0 stream... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:52:00.154695305-05:00[0m [33mDBG[0m Setting /aea/0.1.0 stream... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:52:00.154732048-05:00[0m [32mINF[0m DelegateService listening for new connections... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:52:00.154773834-05:00[0m [32mINF[0m Starting monitoring service: FileMonitoring on /home/ataxia/Documents/Coding/agents-template/erc1155_client/.build/connection/fetchai/p2p_libp2p/acn.stats [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+MULTIADDRS_LIST_START
+/dns4/127.0.0.1/tcp/9000/p2p/16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+MULTIADDRS_LIST_END
+[90m13:52:01.101[0m [32mINF[0m connected to agent [36mpackage=[0mAeaApi
+[90m2021-03-21T13:52:01.101995288-05:00[0m [32mINF[0m successfully connected to AEA!
+[90m2021-03-21T13:59:33.140453946-05:00[0m [33mDBG[0m waiting for notifying peer to be added to dht routing table... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T13:59:33.140530261-05:00[0m [32mINF[0m Announcing address to the dht with cid key QmVGLyEun3zZpS9RyTEz9MtULgYg4kphdaZPN6gTqxGhVo [36maddr=[0m0x9e5c8Bf3b776398455F604B38fFaF32FD39e590e [36mop=[0mregister [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T14:01:44.476147771-05:00[0m [32mINF[0m node stopped
+[90m2021-03-21T14:01:44.476205591-05:00[0m [32mINF[0m Stopping DHTPeer... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG
+[90m2021-03-21T14:01:44.476263192-05:00[0m [32mINF[0m DelegateService Stopped. [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAm5MYau4YH9W5FSak2XBxVymi2KmE4osCaLwzR7cKTEYwG

@@ -1,0 +1,26 @@
+test[90m11:35:21.265[0m [33mDBG[0m env_file: /home/ataxia/Documents/Coding/agents-template/coin_price_oracle/.env.libp2p [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m msgin_path: /tmp/tmppkirpobc/aea_to_process [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m msgout_path: /tmp/tmppkirpobc/process_to_aea [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m id: 9ec230dfefa38007d3e651c11116b2c4aa4e9249431b6669f2955e99b744f348 [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m addr: 0x370f69c09418D613b41EAef5d927997eC0b7d6DF [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m entry_peers:  [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m uri: 127.0.0.1:9000 [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m uri public: 127.0.0.1:9000 [36mpackage=[0mAeaApi
+[90m11:35:21.266[0m [33mDBG[0m uri delegate service: 127.0.0.1:11000 [36mpackage=[0mAeaApi
+[90m2021-03-21T11:35:21.266832015-05:00[0m [32mINF[0m successfully initialized API to AEA!
+[90m2021-03-21T11:35:21.311440602-05:00[0m [32mINF[0m INFO My ID is  [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T11:35:21.31152303-05:00[0m [32mINF[0m successfully created libp2p node! [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T11:35:21.311573374-05:00[0m [33mDBG[0m Setting /aea-register/0.1.0 stream... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T11:35:21.311659124-05:00[0m [32mINF[0m successfully loaded 0 agents [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T11:35:21.311684277-05:00[0m [33mDBG[0m Setting /aea-address/0.1.0 stream... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T11:35:21.311699324-05:00[0m [33mDBG[0m Setting /aea/0.1.0 stream... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T11:35:21.311772625-05:00[0m [32mINF[0m DelegateService listening for new connections... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T11:35:21.311826602-05:00[0m [32mINF[0m Starting monitoring service: FileMonitoring on /home/ataxia/Documents/Coding/agents-template/coin_price_oracle/.build/connection/fetchai/p2p_libp2p/acn.stats [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+MULTIADDRS_LIST_START
+/dns4/127.0.0.1/tcp/9000/p2p/16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+MULTIADDRS_LIST_END
+[90m11:35:22.252[0m [32mINF[0m connected to agent [36mpackage=[0mAeaApi
+[90m2021-03-21T11:35:22.252102282-05:00[0m [32mINF[0m successfully connected to AEA!
+[90m2021-03-21T13:03:53.654060905-05:00[0m [32mINF[0m node stopped
+[90m2021-03-21T13:03:53.654134274-05:00[0m [32mINF[0m Stopping DHTPeer... [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti
+[90m2021-03-21T13:03:53.654189252-05:00[0m [32mINF[0m DelegateService Stopped. [36mpackage=[0mDHTPeer [36mpeerid=[0m16Uiu2HAmJqLTMGsbqwW9ipHrqn97VBLmazVEEJfjt7Q3uxQzwqti

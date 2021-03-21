@@ -1,0 +1,35 @@
+agent_name: my_aea
+author: Ataxia
+version: 0.1.0
+license: Apache-2.0
+description: ''
+aea_version: '>=0.11.0, <0.12.0'
+fingerprint: {}
+fingerprint_ignore_patterns: []
+connections:
+- fetchai/http_server:0.18.0
+contracts: []
+protocols:
+- fetchai/default:0.13.0
+- fetchai/http:0.13.0
+- fetchai/signing:0.11.0
+- fetchai/state_update:0.11.0
+skills:
+- Ataxia/http_echo:0.1.0
+default_connection: fetchai/http_server:0.18.0
+default_ledger: fetchai
+default_routing: {}
+connection_private_key_paths: {}
+private_key_paths:
+  fetchai: fetchai_private_key.txt
+logging_config:
+  disable_existing_loggers: false
+  version: 1
+registry_path: ../packages
+dependencies:
+  aea-ledger-fetchai: {}
+---
+public_id: fetchai/http_server:0.18.0
+type: connection
+config:
+  api_spec_path: ../examples/http_ex/petstore.yaml
